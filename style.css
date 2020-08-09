@@ -64,8 +64,8 @@ background-color: white;
 }
 
 .recomendaciones:hover {
- transform: rotateZ(0.1deg);
- border-radius: 10px;
+ transform: rotateZ(0.5deg);
+ border-radius: 5px;
 }
 
 
